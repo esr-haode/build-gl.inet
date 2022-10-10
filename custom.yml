@@ -15,6 +15,7 @@ packages:
   - luci-app-commands
   - luci-app-mwan3
   - luci-app-wireguard
+  - luci-app-zerotier
   - wireguard
   - luci-app-eqos
   - wireguard-tools
