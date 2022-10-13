@@ -16,6 +16,7 @@ packages:
   - luci-app-mwan3
   - luci-app-wireguard
   - luci-app-zerotier
+  - openclash
   - wireguard
   - luci-app-eqos
   - wireguard-tools
