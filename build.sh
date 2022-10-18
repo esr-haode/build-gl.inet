@@ -33,6 +33,7 @@ git clone https://github.com/gl-inet/gl-infra-builder.git $base/gl-infra-builder
 cp -r custom/  $base/gl-infra-builder/feeds/custom/
 cp -r *.yml $base/gl-infra-builder/profiles
 cd $base/gl-infra-builder
+git checkout v4.1.0_ax1800_release1
 #setup
 
 if [[ $profile == *5-4* ]]; then
